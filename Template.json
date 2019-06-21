@@ -411,7 +411,7 @@
 
             "debugSetting": { "detailLevel": "requestContent, responseContent" },
 
-            "packageUri": "https://github.com/GowthamChalla/CRMArchival/raw/master/Microsoft.Dynamics.Archival.D365WebApp.zip"
+            "packageUri": "https://github.com/gsureshqa/CrmArchivalJob/raw/master/Microsoft.Dynamics.Archival.D365WebApp.zip"
 
           },
 
